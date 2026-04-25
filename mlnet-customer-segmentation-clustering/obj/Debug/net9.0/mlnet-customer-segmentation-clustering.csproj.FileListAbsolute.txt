@@ -1,0 +1,12 @@
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net9.0\mlnet-customer-segmentation-clustering.deps.json
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net9.0\mlnet-customer-segmentation-clustering.dll
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net9.0\mlnet-customer-segmentation-clustering.pdb
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.csproj.AssemblyReference.cache
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.AssemblyInfoInputs.cache
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.AssemblyInfo.cs
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.csproj.CoreCompileInputs.cache
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.dll
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\refint\mlnet-customer-segmentation-clustering.dll
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\mlnet-customer-segmentation-clustering.pdb
+C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net9.0\ref\mlnet-customer-segmentation-clustering.dll
