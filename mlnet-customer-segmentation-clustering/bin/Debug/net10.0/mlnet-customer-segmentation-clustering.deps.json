@@ -6,15 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "mlnet-customer-segmentation-clustering-console/1.0.0": {
+      "mlnet-customer-segmentation-clustering/1.0.0": {
         "dependencies": {
           "Microsoft.ML": "5.0.0",
           "Microsoft.ML.AutoML": "0.23.0",
-          "Microsoft.ML.LightGbm": "5.0.0",
-          "mlnet-customer-segmentation-clustering": "1.0.0"
+          "Microsoft.ML.LightGbm": "5.0.0"
         },
         "runtime": {
-          "mlnet-customer-segmentation-clustering-console.dll": {}
+          "mlnet-customer-segmentation-clustering.dll": {}
         }
       },
       "Google.Protobuf/3.30.2": {
@@ -995,24 +994,11 @@
             "fileVersion": "0.0.0.0"
           }
         }
-      },
-      "mlnet-customer-segmentation-clustering/1.0.0": {
-        "dependencies": {
-          "Microsoft.ML": "5.0.0",
-          "Microsoft.ML.AutoML": "0.23.0",
-          "Microsoft.ML.LightGbm": "5.0.0"
-        },
-        "runtime": {
-          "mlnet-customer-segmentation-clustering.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
   "libraries": {
-    "mlnet-customer-segmentation-clustering-console/1.0.0": {
+    "mlnet-customer-segmentation-clustering/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1324,11 +1310,6 @@
       "sha512": "sha512-P4bl1QcZxD+ZLrPjblUSv6MjRLlDWKa6loPZMMfekIubiandR2gdloL4cQZmfblxf5JzaUWwsbcoBqMu1uHZCw==",
       "path": "torchsharp/0.102.7",
       "hashPath": "torchsharp.0.102.7.nupkg.sha512"
-    },
-    "mlnet-customer-segmentation-clustering/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

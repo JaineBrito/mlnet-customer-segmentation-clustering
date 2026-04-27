@@ -24,7 +24,8 @@
       "LightGBM/4.6.0": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/LightGBM.props": {},
+          "build/LightGBM.targets": {}
         },
         "runtimeTargets": {
           "runtimes/linux-x64/native/lib_lightgbm.so": {
@@ -1287,7 +1288,7 @@
       },
       "mlnet-customer-segmentation-clustering/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.ML": "5.0.0",
           "Microsoft.ML.AutoML": "0.23.0",
@@ -3214,6 +3215,8 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.ML >= 5.0.0",
+      "Microsoft.ML.AutoML >= 0.23.0",
+      "Microsoft.ML.LightGbm >= 5.0.0",
       "mlnet-customer-segmentation-clustering >= 1.0.0"
     ]
   },
@@ -3275,6 +3278,14 @@
           "Microsoft.ML": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "Microsoft.ML.AutoML": {
+            "target": "Package",
+            "version": "[0.23.0, )"
+          },
+          "Microsoft.ML.LightGbm": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           }
         },
         "imports": [
@@ -3293,7 +3304,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

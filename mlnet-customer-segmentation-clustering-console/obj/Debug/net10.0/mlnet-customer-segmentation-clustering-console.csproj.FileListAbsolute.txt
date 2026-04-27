@@ -154,3 +154,4 @@ C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering-console\obj\Debug\net10.0\mlnet-customer-segmentation-clustering-console.pdb
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering-console\obj\Debug\net10.0\mlnet-customer-segmentation-clustering-console.genruntimeconfig.cache
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering-console\obj\Debug\net10.0\ref\mlnet-customer-segmentation-clustering-console.dll
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering-console\obj\Debug\net10.0\mlnet-customer-segmentation-clustering-console.sourcelink.json

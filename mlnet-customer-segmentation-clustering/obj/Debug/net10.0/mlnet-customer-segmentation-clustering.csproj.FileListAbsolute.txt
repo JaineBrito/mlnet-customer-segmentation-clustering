@@ -3,3 +3,11 @@ C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.AssemblyInfoInputs.cache
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.AssemblyInfo.cs
 C:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.csproj.CoreCompileInputs.cache
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net10.0\mlnet-customer-segmentation-clustering.deps.json
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net10.0\mlnet-customer-segmentation-clustering.dll
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\bin\Debug\net10.0\mlnet-customer-segmentation-clustering.pdb
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.sourcelink.json
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.dll
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\refint\mlnet-customer-segmentation-clustering.dll
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\mlnet-customer-segmentation-clustering.pdb
+c:\mlnet-customer-segmentation-clustering\mlnet-customer-segmentation-clustering\obj\Debug\net10.0\ref\mlnet-customer-segmentation-clustering.dll
